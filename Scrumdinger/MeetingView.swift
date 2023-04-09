@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  MeetingView.swift
 //  Scrumdinger
 //
 //  Created by 佐久間大空 on 2023/04/08.
@@ -42,7 +42,7 @@ struct MeetingView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct MeetingView_Previews: PreviewProvider {
     static var previews: some View {
         MeetingView()
     }
